@@ -1,0 +1,54 @@
+
+/*Selector {
+	Property: value;
+} */
+body{
+	background-image:url(images/greybg.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: blue;
+	text-align: center;
+	border: 5px solid rgba(55,76,70,0.5);
+	cursor: ;
+
+}
+
+p {
+	text-align: center;
+	line-height: 50px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: 'Poiret One', cursive;
+	color:white;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+img {
+	float: left;
+}
+
+footer{
+	clear:both;
+	text-align: center;h
+}
+
+.webtext: {
+	border: 5px;
+}
+
+.active {
+	color:red;
+}
+
+#div1 {
+	background: rgba(0,0,255,0.2);
+}
+#div2 {
+	background: rgba(255,0,0,0.2);
+}
