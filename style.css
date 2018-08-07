@@ -38,6 +38,9 @@ footer{
 	text-align: center;h
 }
 
+.jumbotron{
+	background-image:url(images/graveyardproject.jpg)
+}
 .webtext: {
 	border: 5px;
 }
