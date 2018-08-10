@@ -1,0 +1,26 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "graveyardProject",
+  "main": "index.js",
+  "dependencies": {
+    "latest-version": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makeTaller/GraveyardProject.git"
+  },
+  "keywords": [
+    "GYP"
+  ],
+  "author": "Kirk Tolliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makeTaller/GraveyardProject/issues"
+  },
+  "homepage": "https://github.com/makeTaller/GraveyardProject#readme"
+}
