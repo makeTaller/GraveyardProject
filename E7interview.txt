@@ -1,0 +1,55 @@
+Eagle Seven Interview Notes
+September 24, 2018
+by: Kirk Tolliver
+					Background  
+        =======================================================================
+	Questions:
+		Why are you leaving your current job?
+
+	Answer : 
+		The healthcare industry as a whole doesn't seem motivated to pursue advance technologies
+	-----------------------------------------------------------------------
+
+	Questions :
+		Why do you want to work for this company?
+
+	Answer : 
+		I feel that this company has the technology that will make me successful.
+	-----------------------------------------------------------------------
+	Questions :
+		Tell me about yourself. 
+
+	Answer : 
+		The healthcare industry as a whole, for some reason doesn't seem motivated to pursue advance technologies
+	-----------------------------------------------------------------------
+	Questions :
+		
+	Answer : 
+		The healthcare industry as a whole, for some reason doesn't seem motivated to pursue advance technologies
+		 and I for one am press by its pursuit.
+	-----------------------------------------------------------------------
+
+
+					Projects 
+        =======================================================================
+	graveyard project- is a social oasis. 
+			 - gathers the emotional state of the user proir to status posting statuses. (BDD)
+			 - is then able to log your emotional state over time to give the user a access
+			   to analysis of ones character over time.
+	 		 - connects with  unistream guest of the same registered state.
+			 - users can register new states. (This is where marketing should focus. State before status!)
+			 - passing state information to users.
+			 -  we concern your state not your informations.
+			    we monitor your motivations rather then you movements.
+			    we challenge your goals not your mistakes.
+			    we are the eraser. (we can markedly show progress in character)
+			 - selling user space to the public.
+
+Questions:
+1. In the time spent learning about your company, I noticed ..............(fill in here)..........
+
+2. Given that Eagle vision is a financial trading firm is it then our duty to super impose a data structure that ingerates 
+   with your current systems. In other words are we warehousing data and statics to leverage  the derivatives?
+
+3. May I have a business card? 
+
