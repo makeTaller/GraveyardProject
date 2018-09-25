@@ -6,10 +6,16 @@
         =======================================================================
 
 	Questions:
+		What did you do at your last job?
+
+	Answer : 
+		Manage local user data, hardware and remote laptops.
+	-----------------------------------------------------------------------
+	Questions:
 		Why are you leaving your current job?
 
 	Answer : 
-		The healthcare industry as a whole doesn't seem motivated to pursue advance technologies
+		The healthcare industry has outsourced its techjobs to too many thirdparty vendor. Capterra, Grouptime,
 	-----------------------------------------------------------------------
 
 	Questions :
@@ -19,17 +25,37 @@
 		I feel that this company has the technology that will make me successful.
 	-----------------------------------------------------------------------
 	Questions :
-		Tell me about yourself. 
+	       How do you break down a problem troubleshooting?
 
 	Answer : 
-		The healthcare industry as a whole, for some reason doesn't seem motivated to pursue advance technologies
+		First I will separate concerns understand what the program is trying to do from a fundemental stand point.
+		Second I will decouple the program into manageable pieces of code 	
 	-----------------------------------------------------------------------
 	Questions :
+		What is your greatest strentgh?
 		
 	Answer : 
-		The healthcare industry as a whole, for some reason doesn't seem motivated to pursue advance technologies
-		 and I for one am press by its pursuit.
+		Being self taught an advantage, you pace your on studies, choose your own studies, adapt to different technologies. 
+	
 	-----------------------------------------------------------------------
+	Questions :
+		What is your greatest weakness?
+		
+	Answer : 
+		Being self taught its disadvantages, in that the lack of structure broadens your learning curve to the extent that
+		it takes longer to specialize in something and instead of a results driven approach you end up in a learning loop
+		where you don't feel confident enough to start building, instead are learning the project you end up studying the
+		editor, the cloud platform, the security, etc. 
+	
+	-----------------------------------------------------------------------
+	Questions :
+		Why should we hire you?
+		
+	Answer : 
+		Because gaining liquity for clients in a diverse markert requires vigilance and innovation.
+	
+	-----------------------------------------------------------------------
+
 
 
 					Projects 
