@@ -1,4 +1,4 @@
-	Eagle Seven Interview Notes
+	Eagle Seven Interview Note
 	September 24, 2018
 	by: Kirk Tolliver
 
@@ -44,7 +44,7 @@
 	Answer : 
 		Being self taught its disadvantages, in that the lack of structure broadens your learning curve to the extent that
 		it takes longer to specialize in something and instead of a results driven approach you end up in a learning loop
-		where you don't feel confident enough to start building, instead are learning the project you end up studying the
+		where you don't feel confident enough to start building, instead of learning the project you end up studying the
 		editor, the cloud platform, the security, etc. 
 	
 	-----------------------------------------------------------------------
@@ -76,17 +76,17 @@
 
 			  		 %%%%%% Interface %%%%%%
 
-			 - users use an emoji color wheel to set five dials (Similar to the volume dial on a radio.)
+			 - grvp replaces emojii's with color wheels to set dials to describe state.
             		 	1. financial dial
 				2. mental dial 
 				3. spirital dial 
-				4. phsical dial 
+				4. physical dial 
 				5. aspirational dial
 
-			 - when a new state is registered it is catagorized into a the one or more of the five catagories. 
-			   ( This is where marketing will focus its attention)
+			 - when a new state is registered, it is catagorized into  one or more catagories. 
+			   ( This is where marketing, content producers, ads and users will focus thier attention.)
 
-			 - content is now color coded and taged for trait specific data.
+			 - content is now color coded and tagged for trait specific data.
 			   ( A blue user watching red content suggest a variance in character profile)
 
 			 - content is searched, added, and viewed like spokes onto your color wheel
