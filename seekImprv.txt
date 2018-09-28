@@ -1,0 +1,14 @@
+Notes on making improvements
+---------------------------
+Author: Kirk Tolliver
+Date: 09.28.2018 <--------- This object
+	Add detail to the project if nothing else. example.
+
+   		ii. Refactor those script{1-4} components with react syntacs.
+		iii. Define interface components.
+	
+	Random ideas and excercises:
+
+		i. How can I automatically update the date of this file to change to current when edited?
+
+		hint. extract date somehow. (according to most ubiquitus cross platform tool)
